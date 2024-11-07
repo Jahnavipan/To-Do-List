@@ -4,7 +4,7 @@
 ## Overview
 This is a simple and efficient **To-Do List Web Application** that allows users to manage their tasks efficiently. The app provides functionality to create, edit, delete, and mark tasks as completed. It also includes  login/logout functionality, search features, and data persistence using the browser’s **localStorage**.
 ## Live Demo
-You can checkout the live demo of app here https://rishabh-yadav-24.github.io/To-Do-List/# 
+You can checkout the live demo of app here http://127.0.0.1:5500/To-Do-List-main/index.html# 
 ## Features
 - **Login & Logout System**: Users can log in to access the app and securely log out. User credentials are saved in the browser's local storage.
 - **Add Tasks**: Users can add new tasks with just a simple input.
